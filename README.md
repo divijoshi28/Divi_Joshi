@@ -35,13 +35,23 @@
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=divijoshi28&show_icons=true&theme=dark&locale=en&hide_border=true"/>
+      <img 
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divijoshi28&show_icons=true&theme=dark&hide_border=true&count_private=true"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijoshi28&theme=dark&hide_border=true&layout=compact"/>
+      <img 
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divijoshi28&theme=dark&hide_border=true&layout=compact"
+      />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=divijoshi28&theme=dark&hide_border=true"
+  />
+</p>
 
 <div align="center">
   <br/>
